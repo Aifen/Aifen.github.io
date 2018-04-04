@@ -1,0 +1,453 @@
+  html, body {
+    font-family: 'Arial';
+    margin: 0;
+    padding: 0;
+}
+
+  header {
+    background-color: #B0C4DE;
+    height: 60px;
+    overflow: hidden;
+}
+
+  header h1 {
+    margin-left: 50px;
+}
+  .nav li {
+    display: inline;
+    white-space: pre;
+}
+
+  .nav a {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 14px 20px;
+}
+
+    .nav-pills a:hover {
+    color: #ffffff;
+    background-color: #000000;
+} 
+
+   .seventyone h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+
+   .seventyone p {
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+   .seventyone img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .seventythree h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .seventythree p {
+    margin-left: 60px;
+    margin-bottom: 350px;
+}
+   .seventythree img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .seventysix h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .seventysix p {
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+   .seventysix img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .seventyseven h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .seventyseven p {
+    margin-left: 60px;
+    margin-bottom: 150px;
+}
+   .seventyseven img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .seventynine h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .seventynine p {
+    margin-left: 60px;
+}
+   .seventynine img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .eightytwo h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .eightytwo p {
+    margin-left: 60px;
+    margin-bottom: 160px;
+}
+   .eightytwo img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .eightythree h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .eightythree p {
+    margin-left: 60px;
+    margin-bottom: 220px;
+}
+   .eightythree img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .eightyfour h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .eightyfour p {
+    margin-left: 60px;
+    margin-bottom: 70px;
+}
+   .eightyfour img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .eightyfive h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .eightyfive p {
+    margin-left: 60px;
+    margin-bottom: 110px;
+}
+   .eightyfive img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .eightynine h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .eightynine p {
+    margin-left: 60px;
+}
+   .eightynine img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .ninetyone h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .ninetyone p {
+    margin-left: 60px;
+    margin-bottom: 260px;
+}
+   .ninetyone img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .ninetythree h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .ninetythree p {
+    margin-left: 60px;
+    margin-bottom: 110px;
+}
+   .ninetythree img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .ninetyfive h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .ninetyfive p {
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+   .ninetyfive img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .ninetysix h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .ninetysix p {
+    margin-left: 60px;
+    margin-bottom: 120px;
+}
+   .ninetysix img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .ninetynine h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .ninetynine p {
+    margin-left: 60px;
+}
+   .ninetynine img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .thousands h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .thousands p {
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+   .thousands img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .thousandone h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .thousandone p {
+    margin-left: 60px;
+    margin-bottom: 160px;
+}
+   .thousandone img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .thousandfive h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .thousandfive p {
+    margin-left: 60px;
+    margin-bottom: 140px;
+}
+   .thousandfive img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .thousandseven h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .thousandseven p {
+    margin-left: 60px;
+    margin-bottom: 40px;
+}
+   .thousandseven img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .thousandnine h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .thousandnine p {
+    margin-left: 60px;
+}
+   .thousandnine img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+
+   .twentyten h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .twentyten p {
+    margin-left: 60px;
+    margin-bottom: 90px;
+}
+   .twentyten img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .twentyeleven h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .twentyeleven p {
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+   .twentyeleven img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .twentytwelve h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .twentytwelve p {
+    margin-left: 60px;
+    margin-bottom: 130px;
+}
+   .twentytwelve img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .twentyfourteen h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .twentyfourteen p {
+    margin-left: 60px;
+    margin-bottom: 140px;
+}
+   .twentyfourteen img {
+    width: 300px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+   .twentyfifteen h2, h3 {
+    margin-left: 40px;
+    text-decoration: underline;
+    white-space: pre;
+}
+   .twentyfifteen p {
+    margin-left: 60px;
+}
+   .twentyfifteen img {
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
