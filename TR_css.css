@@ -1,0 +1,66 @@
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+  }
+
+  header {
+    background-color: #B0C4DE;
+    height: 60px;
+    overflow: hidden;
+  }
+
+  header h1 {
+    margin-left: 50px;
+}
+
+  .img img {
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 25px;
+  }
+
+  .img h2 {
+    text-decoration: underline;
+    margin-left: 25px;
+  }
+
+  .techSpecs h2 {
+    margin-top: 50px;
+    margin-left: 25px;
+    text-decoration: underline;
+  }
+
+  .techSpecs p {
+    white-space: pre;
+  }
+
+  .targetMarket h2 {
+    margin-left: 25px;
+    text-decoration: underline;
+  }
+
+  .targetMarket h3 {
+    margin-left: 35px;
+    text-decoration: underline;
+  }
+
+  .targetMarket ul, li {
+    margin-left: 30px;
+  }
+
+  .targetMarket p {
+    margin-left: 40px;
+    white-space: pre;
+  }
+
+  footer {
+    background-color: #B0C4DE;
+    height: 50px;
+  }
+
+  .footer {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
