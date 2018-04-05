@@ -1,0 +1,37 @@
+ body {
+   background-color: #B0C4DE;
+ }
+
+ .headingSeoul h1{
+   font-size: 40px;
+   font-family: 'Arial';
+   text-align: center;
+ }
+
+ .headingTourist h2 {
+   font-family: 'Arial';
+   font-size: 30px;
+   text-align: center;
+ }
+ .attractionList {
+   font-size: 20px;
+   font-family: 'Arial';
+   text-align: center;
+ }
+
+ .attractionImages img {
+   width: 600px;
+   height: 450px;
+   border: 1px solid black;
+   display: block;
+   
+   margin-left: auto;
+   
+   margin-right: auto;
+ }
+
+ .attractionImages h3 {
+   font-size: 30px;
+   font-family: 'Arial';
+   text-align: center;
+ }
